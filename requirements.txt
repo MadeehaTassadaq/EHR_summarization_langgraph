@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langgraph
+langchain_groq
+streamlit
+fpdf
+matplotlib
+IPython
+PyPDF2
+
