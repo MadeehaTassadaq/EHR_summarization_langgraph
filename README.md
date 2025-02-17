@@ -23,7 +23,7 @@ The **EHR Summarization Agent App** is a multi-agent system designed to extract 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ehr-summarization-agent.git
+   git clone [(https://github.com/MadeehaTassadaq/EHR_summarization_langgraph.git)]
    cd ehr-summarization-agent
    ```
 2. Create a virtual environment and activate it:
